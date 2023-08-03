@@ -20,7 +20,7 @@ body{
     font-size: 24px;
     color: #f9faf8;
 }
-ul{
+.right-links{
     list-style-type: none;
     display: flex;
     gap: 20px;
